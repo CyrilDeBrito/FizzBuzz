@@ -27,7 +27,7 @@ class FizzBuzzTest {
     }
 
     @Test
-    public void shouldReturnFizzIfNumberIsTree() {
+    public void shouldReturnFizzIfNumberIsThree() {
         assertEquals("Fizz", fizzBuzz.generate(3, 3));
     }
 
